@@ -1,0 +1,9 @@
+# ROS 2 auto-generated folders
+build/
+install/
+log/
+
+# Python and OS caches
+__pycache__/
+*.pyc
+.DS_Store
